@@ -1,0 +1,8 @@
+Slice 2 TCP Throughput Test
+UE IP: 10.46.0.10
+Server IP: 10.140.146.114
+Duration: 20 seconds
+Transfer: 63.1 GBytes
+Bitrate: 27.1 Gbits/sec
+Retransmissions: 0
+Result: PASS
